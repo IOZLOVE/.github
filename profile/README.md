@@ -1,11 +1,11 @@
-# ✨IOZ
+# ✨ IOZ
 Welcome to the unofficial GitHub organization for IOZ fan projects! This is a space where fans celebrate the creativity and energy of the IOZ streamer group. Here, you'll find projects inspired by IOZ, all of which are created at the request of the streamers or their communities. While most projects are private for now, we're passionate about showcasing fan-made creations and fostering a vibrant community.
 
 ## 🛠️ Our Projects
 
 | Project Name                      | Description                                                                |
 | --------------------------------- | -------------------------------------------------------------------------- |
-| palworld-server-docker            | Dedicated Docker server container for Palworld. We hosted this server from 2024 Feb 21, to 2024 Mar 2. |
+| palworld-server-docker            | Dedicated Docker server container for Palworld. We hosted this server from 2024 Feb 21 to 2024 Mar 2. |
 | zomboid-server-docker             | Dedicated Docker server container for Project Zomboid. We hosted zombie survival streams between 2024 April 28 to 2024 May 9. |
 | cte2-server                       | Custom server files for Craft to Exile 2 mod pack with Korean Localization, new configurations, and bug fixes. Currently under active development. |
 | steamcmd-minimal                  | Minimal Docker image containing SteamCMD for other game server management. |
