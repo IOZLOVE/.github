@@ -1,5 +1,5 @@
 # ✨ IOZ
-Welcome to the unofficial GitHub organization for IOZ fan projects! This is a space where fans celebrate the creativity and energy of the IOZ streamer group. Here, you'll find projects inspired by IOZ, all of which are created at the request of the streamers or their communities. While most projects are private for now, we're passionate about showcasing fan-made creations and fostering a vibrant community.
+Welcome to the unofficial GitHub organization for IOZ fan projects! Here, you'll find projects inspired by IOZ, all of which are created at the request of the streamers or their communities. While most projects are private for now, we're passionate about showcasing fan-made creations and fostering a vibrant community.
 
 ## 🛠️ Our Projects
 
@@ -15,11 +15,7 @@ Welcome to the unofficial GitHub organization for IOZ fan projects! This is a sp
 ## 🌈 Our Mission
 IOZ strives to bring joy, entertainment, and a sense of community to the fans through innovative virtual experiences. We're constantly exploring new ways to connect and create unforgettable moments together.
 
-## 🤝 Join the Fun!
-We welcome contributions from all IOZ fans! Whether you're an artist, musician, writer, coder, or simply bursting with ideas, we'd love to have you join our community. 
-
 ## 📝 Important Notes
 * This is an unofficial organization for developers creating projects at the request of the IOZ streamers or their community.
 * While we collaborate closely with the streamers and share our work with them, these projects are not publicly shared at this time.
 * Please respect the IOZ team's intellectual property and guidelines.
-* Let's maintain a positive, inclusive, and supportive atmosphere for IOZ fans!
