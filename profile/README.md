@@ -7,8 +7,12 @@ Welcome to the unofficial GitHub organization for IOZ fan projects! Here, you'll
 | --------------------------------- | -------------------------------------------------------------------------- |
 | palworld-server-docker            | Dedicated Docker server container for Palworld. We hosted this server from 2024 Feb 21 to 2024 Mar 2. |
 | zomboid-server-docker             | Dedicated Docker server container for Project Zomboid. We hosted zombie survival streams between 2024 April 28 to 2024 May 9. |
-| cte2-server                       | Custom server files for Craft to Exile 2 mod pack with Korean Localization, new configurations, and bug fixes. Currently under active development. |
+| cte2-server                       | Custom server files for Craft to Exile 2 mod pack with Korean Localization, new configurations, and bug fixes. We hosted this server from 2024 June 21 to 2024 Mar 2. |
+| cte2-localization                 | Custom Korean localization for Craft to Exile 2 mod pack. |
+| warudo-toonation-plugin           | Custom Warudo plugin for toonation, a donation platform in South Korea. |
+| chzzklink                         | Automatic server-side Chzzk stream recorder with discord webhook integration. |
 | steamcmd-minimal                  | Minimal Docker image containing SteamCMD for other game server management. |
+| stardew-server-docker             | A forked version of the latest server docker for Stardew Valley multiplayer. |
 | ioz-www                           | Source code for the IOZ website frontend, showcasing the latest news, music, and videos. |
 | ioz-sanity                        | Source code for the IOZ website backend. |
 
